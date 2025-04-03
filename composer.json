@@ -1,0 +1,19 @@
+{
+    "name": "marlonpcg/test-request-logger",
+    "description": "TestRequestLogger is a lightweight, pluggable error logging system for PHP applications. It captures PHP errors during web requests and logs them in structured JSON format. Ideal for testing and debugging, especially in automated test suites.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Marlon Pinheiro Claro Gomes",
+        "email": "marlonpcg@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "TestRequestLogger\\": "src/"
+      }
+    },
+    "require": {}
+  }
+  

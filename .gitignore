@@ -1,0 +1,30 @@
+# Composer dependencies
+/vendor/
+
+# Output and log files
+/output/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer generated autoload files
+composer.lock
+composer.phar
+
+# PHPUnit and test output
+/phpunit.xml
+/phpunit.result.cache
+
+# Coverage reports
+/coverage/
+.clover
+
+# Logs
+*.log
